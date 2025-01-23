@@ -29,6 +29,6 @@
 </div>
 
 ###
-<img src="https://raw.githubusercontent.com/victor-henrique-cardoso/victor-henrique-cardoso/output/snake.svg" alt="Snake animation" />
+
 
 ###
