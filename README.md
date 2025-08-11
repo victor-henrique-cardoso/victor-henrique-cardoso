@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning DART, FLUTTER, C#, python.</p>
+<p align="left">✨ Creating bugs since 2024<br>📚 I'm currently learning DART, FLUTTER, C#, python, HTML, CS, JS</p>
 
 ###
 
