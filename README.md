@@ -44,7 +44,7 @@
 
 ### 🌐 Connect with me:
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com]([https://www.instagram.com/vt.henrique_7/)](https://www.instagram.com/vt.henrique_7/))
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)]([https://instagram.com](https://www.instagram.com/vt.henrique_7/)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
 
 
