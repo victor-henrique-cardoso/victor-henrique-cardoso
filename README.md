@@ -1,4 +1,4 @@
-
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&color=ff087f"/>
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=victor-henrique-cardoso&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   
