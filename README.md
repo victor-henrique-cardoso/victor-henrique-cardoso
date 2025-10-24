@@ -5,7 +5,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=victor-henrique-cardoso&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
-
+---
 
 ### About Me:
 👋 My name is **Victor Henrique**  
@@ -50,4 +50,4 @@
 
 
 ---
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=#FFFFFF&height=100&section=footer"/>
+
