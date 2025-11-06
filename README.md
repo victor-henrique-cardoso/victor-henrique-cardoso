@@ -8,11 +8,11 @@
 ---
 
 ### About Me:
-👋 My name is **Victor Henrique**  
-💻 I'm a **16-year-old developer** and a **Technical student in Informatics at IFRO - Ji-Paraná**  
-🚀 Passionate about **Flutter, C#, and new technologies**  
-☕ I love coding while listening to music  
-📚 Currently learning **Dart, Flutter, C#, Python, HTML, and JavaScript**
+ My name is **Victor Henrique**  
+ I'm a **17-year-old developer** and a **Technical student in Informatics at IFRO - Ji-Paraná**  
+ Passionate about **Flutter, C#, and new technologies**  
+ I love coding while listening to music  
+ Currently learning **Dart, Flutter, C#, Python, HTML, and JavaScript**
 
 ---
 
